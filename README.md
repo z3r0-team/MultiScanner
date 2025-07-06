@@ -24,7 +24,7 @@ A fast, multi-threaded web scanner with a modern GUI to efficiently find specifi
 - Standalone
 
 ## Download Link:
-telegram channel: [z3r000](https://t.me/z3r0t34m)
+support my telegram channel [z3r000](https://t.me/z3r0t34m) for another tools in the future.
 
 ## Big Thanks:
 
