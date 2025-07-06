@@ -1,0 +1,25 @@
+coded by andika bintang - #cianjurhacktivist. (Educational Purpose)
+
+usage (Windows):
+1. don't remove azure.ctl
+2. just click "MultiPathScanner.exe", then :
+- input your list of website (non-http or with http)
+- input mappings file, you can see at the "mappings.example" file for the example (comma separated).
+- input threading do u want (default: 50)
+3. start scan!
+
+usage (Linux):
+1. chmod scanner file then make dat file can be executable. 
+   $ chmod +x MultiPathScanner
+2. run with "./MultiPathScanner" (without ").
+   $ ./MultiPathScanner
+3. put your list, threading, save active sites (y/n?)
+note:
+automated fetch "mappings.txt", make sure the "mappings.txt" file is in the same directory as the scanner file.
+
+
+nb:
+This tool was created with the aim that people from Cianjur (Indonesia)
+can also prove themselves after being underestimated because of their IQ.
+greetz:
+Tersakiti Crew - AnonSec Team - #CianjurHacktivist - z3r0-team! - All Indonesian Hacktivist.

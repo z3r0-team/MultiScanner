@@ -1,0 +1,6 @@
+/login.php,administrator
+/admin/login.php,<a href=
+/dashboard/,Welcome! Admin
+
+# put your path and text in the websites body
+# change the filename to "mappings.txt" after see this example.
