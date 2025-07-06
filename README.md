@@ -4,13 +4,14 @@
 A fast, multi-threaded web scanner with a modern GUI to efficiently find specific content across a list of websites.
 
 
-## Screenshots
+# Screenshots
 
-Windows GUI :
+### Windows GUI :
 
 ![App Screenshot](https://github.com/z3r0-team/MultiScanner/blob/main/windows.png?raw=true)
 
-Linux :
+
+### Linux :
 
 ![App Screenshot](https://github.com/z3r0-team/MultiScanner/blob/main/linux.png?raw=true)
 
